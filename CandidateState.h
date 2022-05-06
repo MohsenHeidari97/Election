@@ -1,0 +1,10 @@
+#ifndef ELECTIONMAIN_CANDIDATESTATE_H
+#define ELECTIONMAIN_CANDIDATESTATE_H
+
+ class CandidateState {
+public:
+
+};
+
+
+#endif //ELECTIONMAIN_CANDIDATESTATE_H
