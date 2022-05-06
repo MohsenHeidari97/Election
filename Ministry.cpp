@@ -152,10 +152,10 @@ void Ministry::countVotes() {
         cout << "number of all votes : " << allVotes << endl;
         cout << "number of valid votes : " << validVotes << endl;
         cout << "Number of invalid votes  : " << invalidVotes << endl;
-        cout << "Votes of candidate * Mohsen Heiadri * : " << sumOfC1 << endl;
-        cout << "Votes of candidate * Mohamad Soltani * : " << sumOfC2 << endl;
-        cout << "Votes of candidate * AmirAli janani * : " << sumOfC3 << endl;
-        cout << "Votes of candidate * Hasan Abbasi * : " << sumOfC4 << endl;
+        cout << "Votes of candidate * Mohsen H * : " << sumOfC1 << endl;
+        cout << "Votes of candidate * Mohamad S * : " << sumOfC2 << endl;
+        cout << "Votes of candidate * AmirAli j * : " << sumOfC3 << endl;
+        cout << "Votes of candidate * Hasan Ab * : " << sumOfC4 << endl;
     }
 }
 
